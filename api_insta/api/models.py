@@ -53,7 +53,7 @@ class Profile(models.Model):
     img = models.ImageField(blank=True, null=True, upload_to=upload_avatar_path)
 
     def __str__(self):
-        return self.nikeName
+        return self.nickName
 
 class Post(models.Model):
     title = models.CharField(max_length=100)

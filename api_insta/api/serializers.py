@@ -17,7 +17,7 @@ class ProfileSrealizer(serializers.ModelSerializer):
     created_on = serializers.DateTimeField(format="%Y-%m-%d", read_only=True)
     class Meta:
         model = Profile
-        fields = ('id', 'nickname', 'userProfile', 'created_on', 'img')
+        fields = ('id', 'nickName', 'userProfile', 'created_on', 'img')
         extra_kwargs = {'userProfile': {'read_only': True}}
 
 class PostSrealizer(serializers.ModelSerializer):
