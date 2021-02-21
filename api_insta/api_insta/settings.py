@@ -21,7 +21,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '=@-&ibq1xp(ppk%fk825*v3)t36vh%%k%e-2#9a^bdr*^ifkn!'
+SECRET_KEY = '93sz7=ro#_8a(_(wk)e2z5l1q71%8x#djos2gm&el68b9gp98-'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -60,6 +60,9 @@ CORS_ORIGIN_WHITELIST = [
 ]
 
 
+
+
+
 ROOT_URLCONF = 'api_insta.urls'
 
 TEMPLATES = [
@@ -79,7 +82,6 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'api_insta.wsgi.application'
-
 
 REST_FRAMEWORK = {
     'DEFAULT_PERMISSION_CLASSES': [
