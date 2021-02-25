@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="77c01248-3c02-417b-adf6-aa2de8454f0e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_insta/api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_insta/api/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_insta/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_insta/api/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_insta/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_insta/api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_insta/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_insta/api/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_insta/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_insta/api/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_insta/api_insta/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_insta/api_insta/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_insta/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/api_insta/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +39,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613281137954</updated>
       <workItem from="1613281140427" duration="2487000" />
-      <workItem from="1613847468092" duration="4226000" />
+      <workItem from="1613847468092" duration="4426000" />
     </task>
     <servers />
   </component>
